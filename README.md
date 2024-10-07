@@ -3,7 +3,7 @@
 
 easier way for me to keep track of my kattis solutions
 
-stats since last time i cared to update it: (1.0% of all problems finished) (Score: 98.7)
+stats since last time i cared to update it: (1.0% of all problems finished) (Score: 100.6)
 
 Problem | Language | Kattis Link
 --- | --- | ---
@@ -40,6 +40,7 @@ Problem | Language | Kattis Link
 [Modulo](./src/Modulo/modulo.cpp) | <div align="center"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++ Icon" width="45" height="45"></div> | <div align="center">[<img src="https://archive.org/download/medium_202201/medium.png" alt="Kattis Logo" width="50" height="50">](https://open.kattis.com/problems/modulo)</div>
 [Musical Trees (Challenge) (solve time: 31:22)](./src/Musical%20Trees/musicalTrees.cpp) | <div align="center"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++ Icon" width="45" height="45"></div> | <div align="center">[<img src="https://archive.org/download/medium_202201/medium.png" alt="Kattis Logo" width="50" height="50">](https://open.kattis.com/problems/musicaltrees)</div>
 [Pet](./src/Pet/pet.cpp) | <div align="center"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++ Icon" width="45" height="45"></div> | <div align="center">[<img src="https://archive.org/download/medium_202201/medium.png" alt="Kattis Logo" width="50" height="50">](https://open.kattis.com/problems/pet)</div>
+[Quite a Problem (Challenge) (solve time: 16:20)](./src/Quite%20a%20Problem/quiteAProblem.cpp) | <div align="center"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++ Icon" width="45" height="45"></div> | <div align="center">[<img src="https://archive.org/download/medium_202201/medium.png" alt="Kattis Logo" width="50" height="50">](https://open.kattis.com/problems/quiteaproblem)</div>
 [Roaming Romans](./src/Roaming%20Romans/roamingRomans.cpp) | <div align="center"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++ Icon" width="45" height="45"></div> | <div align="center">[<img src="https://archive.org/download/medium_202201/medium.png" alt="Kattis Logo" width="50" height="50">](https://open.kattis.com/problems/romans)</div>
 [Shopping List (Easy)](./src/Shopping%20List%20(Easy)/shoppingList(Easy).cpp) | <div align="center"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++ Icon" width="45" height="45"></div> | <div align="center">[<img src="https://archive.org/download/medium_202201/medium.png" alt="Kattis Logo" width="50" height="50">](https://open.kattis.com/problems/shoppinglisteasy)</div>
 [Star Arrangements](./src/Star%20Arrangements/starArrangments.cpp) | <div align="center"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++ Icon" width="45" height="45"></div> | <div align="center">[<img src="https://archive.org/download/medium_202201/medium.png" alt="Kattis Logo" width="50" height="50">](https://open.kattis.com/problems/stararrangements)</div>
