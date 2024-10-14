@@ -3,7 +3,7 @@
 
 easier way for me to keep track of my kattis solutions
 
-stats since last time i cared to update it: (1.0% of all problems finished) (Score: 100.6)
+stats since last time i cared to update it: (1.1% of all problems finished) (Score: 110.5)
 
 Problem | Language | Kattis Link
 --- | --- | ---
